@@ -1,0 +1,1 @@
+{"ast":null,"code":"const theme = {};\nexport default theme;","map":{"version":3,"sources":["/Users/leandro/Documents/projects/klikey/feirao/src/styled/theme.js"],"names":["theme"],"mappings":"AAAA,MAAMA,KAAK,GAAG,EAAd;AAEA,eAAeA,KAAf","sourcesContent":["const theme = {}\n\nexport default theme\n"]},"metadata":{},"sourceType":"module"}
